@@ -31,8 +31,8 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=368&h=368&q=100"
-              // src="./picture/img.jpeg"
+              // src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=368&h=368&q=100"
+              src="/images/my-image.jpeg"
               alt="ADIL RADIDI"
               width="220"
               height="220"
