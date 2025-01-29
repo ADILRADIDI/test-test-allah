@@ -56,11 +56,11 @@ export const experiencesData = [
     description:
       "Worked on various projects as a full-stack developer using Vue.js and Laravel. Developed animal management systems with RFID tracking, PDF generation for official reports, and event management solutions. Gained experience in building scalable and efficient web applications.",
     icon: React.createElement(FaReact),
-    date: "2021 - Present",
+    date: "2024",
   },  
   {
     title: "Full-Stack Developer for RDEV Community Platform",
-    location: "Casablanca, Technopark",
+    location: "Casablanca",
     description:
       "Built an innovative platform for developers, enabling post sharing, resource integration, podcast learning, tech events, and Stack Overflow Q&A integration.",
     icon: React.createElement(FaReact),
@@ -68,7 +68,7 @@ export const experiencesData = [
   },
   {
     title: "Full-Stack Developer for Job Portal Platform",
-    location: "Casablanca, Technopark",
+    location: "Casablanca",
     description:
       "Developed a job search platform with Laravel, featuring job listings, application management, user authentication, middleware for security, and a responsive UI for optimal user experience.",
     icon: React.createElement(CgWorkAlt),
