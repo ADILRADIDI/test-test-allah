@@ -20,7 +20,8 @@ export default function Intro() {
       id="home"
       className="mb-28 max-w-[50rem] text-center sm:mb-0 scroll-mt-[100rem]"
     >
-      <div className="flex items-center justify-center">
+      {/* circle  */}
+      <div className="flex items-center justify-center ">
         <div className="relative">
           <motion.div
             initial={{ opacity: 0, scale: 0 }}
@@ -32,13 +33,13 @@ export default function Intro() {
           >
             <Image
               // src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=368&h=368&q=100"
-              src="/images/my-image.jpeg"
+              src="/images/my-image.jpg"
               alt="ADIL RADIDI"
-              width="220"
-              height="220"
+              width="200"
+              height="200"
               quality="95"
               priority={true}
-              className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+              className="h-32 w-32 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
           </motion.div>
 
